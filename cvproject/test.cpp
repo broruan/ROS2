@@ -12,7 +12,7 @@ float Distance(const cv::Point A,const cv::Point B){
 
 int main(){
     std::vector<cv::Mat> channels;
-    cv::Mat img = cv::imread("../mix.jpeg");
+    cv::Mat img = cv::imread("../Robot.png");
     if(img.empty()){
         std::cout<<"Loading img error"<<std::endl;
         return -1;
