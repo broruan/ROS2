@@ -6,5 +6,6 @@ int main(int argc, char **argv)
     RCLCPP_INFO(node->get_logger(), "Hello, ROS2 with C++17!");
     rclcpp::spin(node);
     rclcpp::shutdown();
+    
     return 0;
 }
