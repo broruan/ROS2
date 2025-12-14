@@ -3,7 +3,7 @@ int main(int argc, char **argv)
 {
     rclcpp::init(argc, argv);
     auto node = rclcpp::Node::make_shared("my_node");
-    RCLCPP_INFO(node->get_logger(), "Hello, ROS2 with C++17!");
+    RCLCPP_INFO(node->get_logger(), "Hello, ROS2");
     rclcpp::spin(node);
     rclcpp::shutdown();
     
