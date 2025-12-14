@@ -1,5 +1,0 @@
-/home/robot-max/Desktop/cvproject/cmake-build/CMakeFiles/CMakeCXXCompilerId.dir
-/home/robot-max/Desktop/cvproject/cmake-build/CMakeFiles/main.dir
-/home/robot-max/Desktop/cvproject/cmake-build/CMakeFiles/test.dir
-/home/robot-max/Desktop/cvproject/cmake-build/CMakeFiles/edit_cache.dir
-/home/robot-max/Desktop/cvproject/cmake-build/CMakeFiles/rebuild_cache.dir
