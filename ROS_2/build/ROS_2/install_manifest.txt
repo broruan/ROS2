@@ -1,0 +1,16 @@
+/home/robot-max/Desktop/ROS_2/install/ROS_2/lib/ROS_2/main
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/package_run_dependencies/ROS_2
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/parent_prefix_path/ROS_2
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/ament_prefix_path.sh
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/ament_prefix_path.dsv
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/path.sh
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/path.dsv
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.bash
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.sh
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.zsh
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.dsv
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/package.dsv
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/packages/ROS_2
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/cmake/ROS_2Config.cmake
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/cmake/ROS_2Config-version.cmake
+/home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/package.xml

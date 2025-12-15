@@ -1,0 +1,4 @@
+source;share/ROS_2/local_setup.bash
+source;share/ROS_2/local_setup.dsv
+source;share/ROS_2/local_setup.sh
+source;share/ROS_2/local_setup.zsh

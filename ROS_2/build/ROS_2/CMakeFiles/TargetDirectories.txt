@@ -1,0 +1,10 @@
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/uninstall.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/ROS_2_uninstall.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/main.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/test.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/edit_cache.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/rebuild_cache.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/list_install_components.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/install.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/install/local.dir
+/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/install/strip.dir
