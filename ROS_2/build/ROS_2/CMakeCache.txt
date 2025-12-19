@@ -275,7 +275,7 @@ ROS_2_BINARY_DIR:STATIC=/home/robot-max/Desktop/ROS_2/build/ROS_2
 ROS_2_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-ROS_2_SOURCE_DIR:STATIC=/home/robot-max/Desktop/ROS_2/ROS_2
+ROS_2_SOURCE_DIR:STATIC=/home/robot-max/Desktop/ROS_2/src/ROS_2
 
 //Name of the computer/site where compile is being run
 SITE:STRING=robot-max-JIAOLONG-Series
@@ -584,7 +584,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/robot-max/Desktop/ROS_2/ROS_2
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/robot-max/Desktop/ROS_2/src/ROS_2
 //Install .so files without execute permission.
 CMAKE_INSTALL_SO_NO_EXE:INTERNAL=1
 //ADVANCED property for variable: CMAKE_LINKER

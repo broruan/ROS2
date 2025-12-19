@@ -1,0 +1,42 @@
+[0.008s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/ROS_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/robot-max/Desktop/ROS_2/src/ROS_2 -DCMAKE_INSTALL_PREFIX=/home/robot-max/Desktop/ROS_2/install/ROS_2
+[0.056s] -- The C compiler identification is GNU 13.3.0
+[0.104s] -- The CXX compiler identification is GNU 13.3.0
+[0.119s] -- Detecting C compiler ABI info
+[0.198s] -- Detecting C compiler ABI info - done
+[0.206s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.206s] -- Detecting C compile features
+[0.206s] -- Detecting C compile features - done
+[0.214s] -- Detecting CXX compiler ABI info
+[0.302s] -- Detecting CXX compiler ABI info - done
+[0.309s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.309s] -- Detecting CXX compile features
+[0.310s] -- Detecting CXX compile features - done
+[0.312s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.428s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.507s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.532s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.540s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.549s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.559s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.602s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.604s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.660s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.674s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.689s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.735s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.777s] WARNING: Package name "ROS_2" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.795s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.795s] -- Configured cppcheck include dirs: 
+[0.795s] -- Configured cppcheck exclude dirs and/or files: 
+[0.795s] -- Added test 'lint_cmake' to check CMake code style
+[0.796s] -- Added test 'uncrustify' to check C / C++ code style
+[0.796s] -- Configured uncrustify additional arguments: 
+[0.796s] -- Added test 'xmllint' to check XML markup files
+[0.797s] -- Configuring done (0.8s)
+[0.803s] -- Generating done (0.0s)
+[0.805s] -- Build files have been written to: /home/robot-max/Desktop/ROS_2/build/ROS_2
+[0.813s] Invoked command in '/home/robot-max/Desktop/ROS_2/build/ROS_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/robot-max/Desktop/ROS_2/src/ROS_2 -DCMAKE_INSTALL_PREFIX=/home/robot-max/Desktop/ROS_2/install/ROS_2
+[0.814s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/ROS_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/ROS_2 -- -j24 -l24
+[0.851s] [ 50%] [32mBuilding CXX object CMakeFiles/main.dir/src/main.cpp.o[0m
+[2.513s] [100%] [32m[1mLinking CXX executable main[0m
+[2.606s] [100%] Built target main

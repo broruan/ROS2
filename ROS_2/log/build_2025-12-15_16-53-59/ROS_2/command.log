@@ -1,2 +1,0 @@
-Invoking command in '/home/robot-max/Desktop/ROS_2/build/ROS_2': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/robot-max/Desktop/ROS_2/ROS_2 -DCMAKE_INSTALL_PREFIX=/home/robot-max/Desktop/ROS_2/install/ROS_2
-Invoked command in '/home/robot-max/Desktop/ROS_2/build/ROS_2' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/robot-max/Desktop/ROS_2/ROS_2 -DCMAKE_INSTALL_PREFIX=/home/robot-max/Desktop/ROS_2/install/ROS_2

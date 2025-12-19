@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/robot-max/Desktop/ROS_2/ROS_2
+CMAKE_SOURCE_DIR = /home/robot-max/Desktop/ROS_2/src/ROS_2
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/robot-max/Desktop/ROS_2/build/ROS_2
@@ -70,18 +70,18 @@ include CMakeFiles/main.dir/progress.make
 include CMakeFiles/main.dir/flags.make
 
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/main.cpp.o: /home/robot-max/Desktop/ROS_2/ROS_2/src/main.cpp
+CMakeFiles/main.dir/src/main.cpp.o: /home/robot-max/Desktop/ROS_2/src/ROS_2/src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.o -MF CMakeFiles/main.dir/src/main.cpp.o.d -o CMakeFiles/main.dir/src/main.cpp.o -c /home/robot-max/Desktop/ROS_2/ROS_2/src/main.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.o -MF CMakeFiles/main.dir/src/main.cpp.o.d -o CMakeFiles/main.dir/src/main.cpp.o -c /home/robot-max/Desktop/ROS_2/src/ROS_2/src/main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robot-max/Desktop/ROS_2/ROS_2/src/main.cpp > CMakeFiles/main.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/robot-max/Desktop/ROS_2/src/ROS_2/src/main.cpp > CMakeFiles/main.dir/src/main.cpp.i
 
 CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robot-max/Desktop/ROS_2/ROS_2/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/robot-max/Desktop/ROS_2/src/ROS_2/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -171,6 +171,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	cd /home/robot-max/Desktop/ROS_2/build/ROS_2 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robot-max/Desktop/ROS_2/ROS_2 /home/robot-max/Desktop/ROS_2/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/robot-max/Desktop/ROS_2/build/ROS_2 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robot-max/Desktop/ROS_2/src/ROS_2 /home/robot-max/Desktop/ROS_2/src/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/main.dir/depend
 

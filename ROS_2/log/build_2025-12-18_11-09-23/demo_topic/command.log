@@ -1,0 +1,2 @@
+Invoking command in '/home/robot-max/Desktop/ROS_2/build/demo_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24
+Invoked command in '/home/robot-max/Desktop/ROS_2/build/demo_topic' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24

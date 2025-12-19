@@ -1,0 +1,19 @@
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:[m[K In lambda function:
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:14:86:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   14 |  this->create_wall_timer(1000ms,[this](){this->time_callback[01;31m[K}[m[K)//为lambda表达式
+      |                                                             [01;31m[K^[m[K
+
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:14:73:[m[K [01;31m[Kerror: [m[Kinvalid use of non-static member function ‘[01m[Kvoid Turtle_circle::[01;32m[Ktime_callback[m[K()[m[K’
+   14 | auto timer_ = this->create_wall_timer(1000ms,[this](){[01;31m[Kthis->time_callback[m[K})//为lambda表达式
+      |                                                       [01;31m[K~~~~~~^~~~~~~~~~~~~[m[K
+
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:17:14:[m[K [01;36m[Knote: [m[Kdeclared here
+   17 |         void [01;36m[Ktime_callback[m[K(){
+      |              [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:[m[K In constructor ‘[01m[KTurtle_circle::[01;32m[KTurtle_circle[m[K(const std::string&)[m[K’:
+[01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:15:9:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   15 |         [01;31m[K}[m[K
+      |         [01;31m[K^[m[K
+gmake[2]: *** [CMakeFiles/demo_topic.dir/build.make:76：CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/demo_topic.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

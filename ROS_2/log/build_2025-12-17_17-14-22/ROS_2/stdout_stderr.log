@@ -1,0 +1,19 @@
+[100%] Built target main
+-- Install configuration: ""
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/lib/ROS_2/main
+-- Set non-toolchain portion of runtime path of "/home/robot-max/Desktop/ROS_2/install/ROS_2/lib/ROS_2/main" to ""
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/package_run_dependencies/ROS_2
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/parent_prefix_path/ROS_2
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/ament_prefix_path.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/ament_prefix_path.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/path.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/environment/path.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.bash
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.zsh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/local_setup.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/package.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ament_index/resource_index/packages/ROS_2
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/cmake/ROS_2Config.cmake
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/cmake/ROS_2Config-version.cmake
+-- Installing: /home/robot-max/Desktop/ROS_2/install/ROS_2/share/ROS_2/package.xml

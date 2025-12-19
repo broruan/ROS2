@@ -1,0 +1,22 @@
+[0.011s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/demo_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24
+[0.094s] [ 50%] [32mBuilding CXX object CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o[0m
+[1.532s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:[m[K In lambda function:
+[1.532s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:14:86:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[1.532s]    14 |  this->create_wall_timer(1000ms,[this](){this->time_callback[01;31m[K}[m[K)//为lambda表达式
+[1.532s]       |                                                             [01;31m[K^[m[K
+[1.532s] 
+[1.532s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:14:73:[m[K [01;31m[Kerror: [m[Kinvalid use of non-static member function ‘[01m[Kvoid Turtle_circle::[01;32m[Ktime_callback[m[K()[m[K’
+[1.533s]    14 | auto timer_ = this->create_wall_timer(1000ms,[this](){[01;31m[Kthis->time_callback[m[K})//为lambda表达式
+[1.533s]       |                                                       [01;31m[K~~~~~~^~~~~~~~~~~~~[m[K
+[1.533s] 
+[1.533s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:17:14:[m[K [01;36m[Knote: [m[Kdeclared here
+[1.533s]    17 |         void [01;36m[Ktime_callback[m[K(){
+[1.533s]       |              [01;36m[K^~~~~~~~~~~~~[m[K
+[1.534s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:[m[K In constructor ‘[01m[KTurtle_circle::[01;32m[KTurtle_circle[m[K(const std::string&)[m[K’:
+[1.534s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:15:9:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[1.534s]    15 |         [01;31m[K}[m[K
+[1.534s]       |         [01;31m[K^[m[K
+[2.099s] gmake[2]: *** [CMakeFiles/demo_topic.dir/build.make:76：CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o] 错误 1
+[2.099s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/demo_topic.dir/all] 错误 2
+[2.099s] gmake: *** [Makefile:146：all] 错误 2
+[2.102s] Invoked command in '/home/robot-max/Desktop/ROS_2/build/demo_topic' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24

@@ -1,0 +1,11 @@
+[0.012s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/demo_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24
+[0.095s] [ 50%] [32mBuilding CXX object CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o[0m
+[1.489s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:[m[K In lambda function:
+[1.489s] [01m[K/home/robot-max/Desktop/ROS_2/src/demo_topic/src/demo_topic.cpp:14:88:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[1.489s]    14 | his->create_wall_timer(1000ms,[this](){this->time_callback()[01;31m[K}[m[K);//为lambda表达式
+[1.489s]       |                                                             [01;31m[K^[m[K
+[1.489s] 
+[2.084s] gmake[2]: *** [CMakeFiles/demo_topic.dir/build.make:76：CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o] 错误 1
+[2.084s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/demo_topic.dir/all] 错误 2
+[2.084s] gmake: *** [Makefile:146：all] 错误 2
+[2.087s] Invoked command in '/home/robot-max/Desktop/ROS_2/build/demo_topic' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24

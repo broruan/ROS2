@@ -1,4 +1,4 @@
-# Install script for directory: /home/robot-max/Desktop/ROS_2/ROS_2
+# Install script for directory: /home/robot-max/Desktop/ROS_2/src/ROS_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -122,7 +122,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ROS_2" TYPE FILE FILES "/home/robot-max/Desktop/ROS_2/ROS_2/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ROS_2" TYPE FILE FILES "/home/robot-max/Desktop/ROS_2/src/ROS_2/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

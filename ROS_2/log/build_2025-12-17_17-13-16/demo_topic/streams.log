@@ -1,0 +1,25 @@
+[0.008s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/demo_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24
+[0.064s] [ 50%] [32mBuilding CXX object CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o[0m
+[2.562s] [100%] [32m[1mLinking CXX executable demo_topic[0m
+[2.674s] [100%] Built target demo_topic
+[2.683s] Invoked command in '/home/robot-max/Desktop/ROS_2/build/demo_topic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/robot-max/Desktop/ROS_2/build/demo_topic -- -j24 -l24
+[2.690s] Invoking command in '/home/robot-max/Desktop/ROS_2/build/demo_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/robot-max/Desktop/ROS_2/build/demo_topic
+[2.696s] -- Install configuration: ""
+[2.696s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/lib/demo_topic/demo_topic
+[2.697s] -- Set non-toolchain portion of runtime path of "/home/robot-max/Desktop/ROS_2/install/demo_topic/lib/demo_topic/demo_topic" to ""
+[2.697s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/package_run_dependencies/demo_topic
+[2.697s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/parent_prefix_path/demo_topic
+[2.697s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.sh
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.dsv
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.sh
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.dsv
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.bash
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.sh
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.zsh
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.dsv
+[2.698s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.dsv
+[2.699s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/packages/demo_topic
+[2.699s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig.cmake
+[2.699s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig-version.cmake
+[2.699s] -- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.xml
+[2.701s] Invoked command in '/home/robot-max/Desktop/ROS_2/build/demo_topic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/robot-max/Desktop/ROS_2/build/demo_topic

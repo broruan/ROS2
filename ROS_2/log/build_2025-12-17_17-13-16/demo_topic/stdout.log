@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/demo_topic.dir/src/demo_topic.cpp.o[0m
+[100%] [32m[1mLinking CXX executable demo_topic[0m
+[100%] Built target demo_topic
+-- Install configuration: ""
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/lib/demo_topic/demo_topic
+-- Set non-toolchain portion of runtime path of "/home/robot-max/Desktop/ROS_2/install/demo_topic/lib/demo_topic/demo_topic" to ""
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/package_run_dependencies/demo_topic
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/parent_prefix_path/demo_topic
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.bash
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.sh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.zsh
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.dsv
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/packages/demo_topic
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig.cmake
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig-version.cmake
+-- Installing: /home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.xml

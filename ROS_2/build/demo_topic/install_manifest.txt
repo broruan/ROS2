@@ -1,0 +1,16 @@
+/home/robot-max/Desktop/ROS_2/install/demo_topic/lib/demo_topic/demo_topic
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/package_run_dependencies/demo_topic
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/parent_prefix_path/demo_topic
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.sh
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/ament_prefix_path.dsv
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.sh
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/environment/path.dsv
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.bash
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.sh
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.zsh
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/local_setup.dsv
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.dsv
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/ament_index/resource_index/packages/demo_topic
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig.cmake
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/cmake/demo_topicConfig-version.cmake
+/home/robot-max/Desktop/ROS_2/install/demo_topic/share/demo_topic/package.xml

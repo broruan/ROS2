@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000234] (-) JobUnselected: {'identifier': 'ROS_2'}
+[0.000274] (-) JobUnselected: {'identifier': 'demo_topic'}
+[0.000423] (-) EventReactorShutdown: {}

@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/robot-max/Desktop/ROS_2/ROS_2
+CMAKE_SOURCE_DIR = /home/robot-max/Desktop/ROS_2/src/ROS_2
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/robot-max/Desktop/ROS_2/build/ROS_2
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/robot-max/Desktop/ROS_2/build/ROS_2 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robot-max/Desktop/ROS_2/ROS_2 /home/robot-max/Desktop/ROS_2/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/robot-max/Desktop/ROS_2/build/ROS_2 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robot-max/Desktop/ROS_2/src/ROS_2 /home/robot-max/Desktop/ROS_2/src/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2 /home/robot-max/Desktop/ROS_2/build/ROS_2/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 
